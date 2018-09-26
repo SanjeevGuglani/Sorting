@@ -5,6 +5,8 @@ import java.util.Arrays;
 /**
  * Created by Sanjeev Guglani
  */
+
+//Insert in Sorted Array
 public class InsertionSort {
     public static void insert(int arr[])
     {
